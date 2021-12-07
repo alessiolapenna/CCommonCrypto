@@ -8,7 +8,7 @@ This is a CommonCrypto SPM (Swift Package Manager) Package that allows for linki
 let package = Package(
     name: "YourPackage",
     dependencies: [
-        .package(url: "https://github.com/jernejstrasner/CCommonCrypto.git", .branch("master"))
+        .package(url: "https://github.com/alessiolapenna/CCommonCrypto.git", .branch("master"))
     ],
     targets: [...]
 )
