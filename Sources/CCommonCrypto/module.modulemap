@@ -1,4 +1,0 @@
-module CCommonCrypto {
-    umbrella header "Sources/CommonCrypto/CommonCrypto.h"
-  export *
-}
